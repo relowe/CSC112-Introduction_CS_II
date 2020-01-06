@@ -27,23 +27,34 @@ topics and offers supervised practice using programming.
 
 # Course Outline
 1. Review of C++
-    1. The UNIX Command Line
-    2. C++ Syntax
-    3. Building with Make
+    1. The Basics
+        1. The UNIX Command Line
+        2. C++ Syntax & Data Types
+        3. Building with Make
+    2. C++ Design and Thinking
+        1. Loops
+        2. Functions
+        3. Classes and Objects
 2. Pointers
-    1. Organization of Computer Memory
-    2. Size and Type
-    3. Arrays
-    4. Dynamic Allocations
-    5. Pointers and Objects
+    1. Pointer Basics
+        1. Organization of Computer Memory
+        2. Size and Type
+        3. Arrays
+    2. Dynamic Allocations
+        1. Dynamic Allocations of Arrays
+        2. Pointers and Objects
+        3. Destructors
 3. Graphical Application Development
     1. An Introduction to FLTK
     2. Drawing Shapes
     3. Responding to Events
     4. Custom Widgets
     5. Animations, Games, and Simulations
-4. OOP Approach to Algorithms: backtracking
-5. Low Level Programming
-    1. Machine Code and C
-    2. The UNIX Memory Model
-    3. Smashing the Stack for Fun and Profit
+4. Object Oriented Applications
+    1. Namespaces, Framewoks, and Alpacas
+    2. An OOP Backtracking Algorithm
+5. Advanced Tools & Low Level Programming
+    1. Using Debuggers
+    2. Machine Code and C
+    3. The UNIX Memory Model
+    4. Smashing the Stack for Fun and Profit
