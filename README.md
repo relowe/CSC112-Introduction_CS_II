@@ -27,14 +27,14 @@ topics and offers supervised practice using programming.
 
 # Course Outline
 1. Review of C++
-    1. The Basics
+    1. Reviewing The Basics
         1. The UNIX Command Line
         2. C++ Syntax & Data Types
         3. Building with Make
     2. C++ Design and Thinking
         1. Loops
         2. Functions
-        3. Classes and Objects
+    3. OOP: C++ Classes and Objects
 2. Pointers
     1. Pointer Basics
         1. Organization of Computer Memory
@@ -47,9 +47,10 @@ topics and offers supervised practice using programming.
 3. Graphical Application Development
     1. An Introduction to FLTK
     2. Drawing Shapes
-    3. Responding to Events
-    4. Custom Widgets
-    5. Animations, Games, and Simulations
+    3. Introduction to Inheritance and Polymorphism
+    4. Responding to Events
+    5. Custom Widgets
+    6. Animations, Games, and Simulations
 4. Object Oriented Applications
     1. Namespaces, Framewoks, and Alpacas
     2. An OOP Backtracking Algorithm
@@ -58,3 +59,12 @@ topics and offers supervised practice using programming.
     2. Machine Code and C
     3. The UNIX Memory Model
     4. Smashing the Stack for Fun and Profit
+
+# Programming Assignments
+1. Pocket Calculator
+2. Conway's Game of Life
+3. A Pack of Attack Alpacas
+4. Pegboard Games
+
+# Term Project
+Create a video game using C++ and FLTK.
